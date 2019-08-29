@@ -1,4 +1,4 @@
-This is the colorectal adenoma dataset for "CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation".
+This is the colorectal adenoma dataset for "CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation" (ICCV 2019). [Paper](http://arxiv.org/abs/1908.10555)
 
 ## Overview
 
