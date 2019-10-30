@@ -6,7 +6,7 @@ We open-source the colorectal adenoma dataset with image-level labels for weakl
 
 ## Download
 
-The dataset is hosted on [Baidu Drive](https://pan.baidu.com/s/1kk3rUgFkY7b3FX9g--w_5g) with password `x2o5`.
+The dataset is hosted on [Google Drive](https://drive.google.com/open?id=1brr8CnU6ddzAYT157wkdXjbSzoiIDF9y) or [Baidu Drive](https://pan.baidu.com/s/1kk3rUgFkY7b3FX9g--w_5g) with password `x2o5`.
 
 ## Description
 
